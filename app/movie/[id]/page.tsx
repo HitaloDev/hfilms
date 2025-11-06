@@ -229,3 +229,4 @@ const FilmeDetalhes = () => {
 };
 
 export default FilmeDetalhes;
+
